@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Stupid DS Store file that is v annoying
+.DS_Store
